@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/Garima-006-20/Login-Form/static/css/main.e6c13ad2.css",
-    "main.js": "/Garima-006-20/Login-Form/static/js/main.027dc1d3.js",
-    "static/js/453.525d59b6.chunk.js": "/Garima-006-20/Login-Form/static/js/453.525d59b6.chunk.js",
-    "index.html": "/Garima-006-20/Login-Form/index.html",
-    "main.e6c13ad2.css.map": "/Garima-006-20/Login-Form/static/css/main.e6c13ad2.css.map",
-    "main.027dc1d3.js.map": "/Garima-006-20/Login-Form/static/js/main.027dc1d3.js.map",
-    "453.525d59b6.chunk.js.map": "/Garima-006-20/Login-Form/static/js/453.525d59b6.chunk.js.map"
+    "main.js": "./static/js/main.68d14c81.js",
+    "index.html": "./index.html",
+    "main.68d14c81.js.map": "./static/js/main.68d14c81.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.027dc1d3.js"
+    "static/js/main.68d14c81.js"
   ]
 }
